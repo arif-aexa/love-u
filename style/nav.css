@@ -1,0 +1,45 @@
+.h_pik {
+  display: flex;
+  position: absolute;
+  margin-top: 154px;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: #000000;
+  padding-bottom: 10px;
+  padding-top: 2px;
+}
+
+.h_pik {
+  position: absolute;
+  margin-top: -10px;
+}
+
+.header_list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  color: #ffffff;
+  gap: 110px;
+  font-size: 20px;
+}
+
+header {
+  background-color: #000000;
+}
+.btn {
+  border: 1px solid #ffffff;
+  color: #ffffff;
+}
+
+strong {
+  color: #4065f6;
+}
+
+.he {
+  font-size: 60px;
+  line-height: 74px;
+  font-weight: 600;
+  letter-spacing: -2px;
+}
